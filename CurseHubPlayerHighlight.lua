@@ -1,3 +1,4 @@
+-- [wip currently]
 local Players = game:GetService("Players")
 
 local function highlightPlayer(player)
